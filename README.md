@@ -4,7 +4,7 @@ progetto e sviluppo a carico di Alex Condò
 
 progetto in HTML e PHP puro per scelta del cliente
 
-DB in mySQL
+DB in mySQL con backup automatico
 
 servizio di registrazione tramite mail con verifica
 
