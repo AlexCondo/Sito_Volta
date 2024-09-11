@@ -1,0 +1,54 @@
+table 
+{
+    position: center;
+    width : 100%;
+    margin: 20px 0px;
+}
+
+th
+{
+    background-color: #ddd;
+}
+
+table, th, td
+{
+    text-align: center;
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+th, td
+{
+    padding: 10px;
+}
+
+tr
+{
+    width: 100%;
+}
+
+tr:nth-child(odd)
+{
+    background-color: #eee;
+}
+
+select 
+{
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+input[type=text]
+{
+    text-align: center;
+    padding: 4px 8px;
+    margin: 2px 0;
+    border: 1px solid #ccc;
+}
+
+input[type=submit]
+{
+    text-align: center;
+    margin: 10px 0;
+    padding: 10px 16px;
+}
